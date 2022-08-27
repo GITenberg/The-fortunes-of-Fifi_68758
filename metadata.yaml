@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '38324'
     url: http://www.gutenberg.org/2009/agents/38324
     wikipedia: https://en.wikipedia.org/wiki/Thure_de_Thulstrup
+covers:
+- cover_type: archival
+  image_path: 68758-h/images/cover.jpg
 creator:
   author:
     agent_name: Seawell, Molly Elliot
@@ -26,6 +29,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43099
     - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68758#The-fortunes-of-Fifi
 gutenberg_issued: '2022-08-15'
 identifiers:
   gutenberg: '68758'
